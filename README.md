@@ -54,19 +54,17 @@ UNIT 5 [ Numerical Methods ]
 
 3. [Cholesky Decomposition calculator](https://atozmath.com/MatrixEv.aspx?q=choleskydecomp&q1=4%2C2%2C14%3B2%2C17%2C-5%3B14%2C-5%2C83%60choleskydecomp%60&dm=D&dp=8&do=0)
 
-4. 
-
 -----------------------------------------------
 
 UNIT 6 [ Numerical Methods ]
 
-1. Langrange's interpolation: https://atozmath.com/CONM/NumeInterPola.aspx?q=LI
-2. Newton's Forward Difference: https://atozmath.com/CONM/NumeDiff.aspx?q=F
-3. Newton's Backward Difference: https://atozmath.com/CONM/NumeDiff.aspx?q=B
-4. Simpson's 3/8: https://atozmath.com/CONM/NumeInte.aspx?q=S38
-5. Simpson's 1/3: https://atozmath.com/CONM/NumeInte.aspx?q=S13
-6. Runge-Kutta: https://atozmath.com/CONM/RungeKutta.aspx?q=rk4
-7. Euler method: https://atozmath.com/CONM/RungeKutta.aspx?q=euler
+1. [Langrange's interpolation](https://atozmath.com/CONM/NumeInterPola.aspx?q=LI)
+2. [Newton's Forward Difference](https://atozmath.com/CONM/NumeDiff.aspx?q=F)
+3. [Newton's Backward Difference](https://atozmath.com/CONM/NumeDiff.aspx?q=B)
+4. [Simpson's 3/8](https://atozmath.com/CONM/NumeInte.aspx?q=S38)
+5. [Simpson's 1/3](https://atozmath.com/CONM/NumeInte.aspx?q=S13)
+6. [Runge-Kutta](https://atozmath.com/CONM/RungeKutta.aspx?q=rk4)
+7. [Euler method](https://atozmath.com/CONM/RungeKutta.aspx?q=euler)
 
 ------------------------------------------------------------
 
@@ -76,27 +74,19 @@ Solvers and Calculators
 
 
 
-Numerical Methods
-https://atozmath.com/Menu/ConmMenu.aspx
+[Numerical Methods](https://atozmath.com/Menu/ConmMenu.aspx)
 
-Mode, Medain, A.M:
-https://www.calculator.net/mean-median-mode-range-calculator.html
+[Mode, Medain, A.M:](https://www.calculator.net/mean-median-mode-range-calculator.html)
  
-AM, Medain , Mode , table format almost all variance, C.V (only see population)
-https://atozmath.com/StatsG.aspx?q=1
+[AM, Medain , Mode , table format almost all variance, C.V (only see population)](https://atozmath.com/StatsG.aspx?q=1)
 
-Pearson Correlation Coefficient Calculator
-https://www.socscistatistics.com/tests/pearson/default2.aspx
+[Pearson Correlation Coefficient Calculator](https://www.socscistatistics.com/tests/pearson/default2.aspx)
 
-Equation on Regression line (Select method 1)
-https://atozmath.com/CONM/Ch4_RegreLines.aspx?q=1&q1=1%606%2c2%2c10%2c4%2c8%60%609%2c11%2c5%2c8%2c7%601%601%60&do=1#PrevPart
+[Equation on Regression line (Select method 1)](https://atozmath.com/CONM/Ch4_RegreLines.aspx?q=1&q1=1%606%2c2%2c10%2c4%2c8%60%609%2c11%2c5%2c8%2c7%601%601%60&do=1#PrevPart)
 
-Get values from Regression Line
-https://atozmath.com/CONM/Ch4_RegreLines.aspx?q=2
+[Get values from Regression Line](https://atozmath.com/CONM/Ch4_RegreLines.aspx?q=2)
 
-All Tool 
-https://atozmath.com/Menu/StatisticsMenu.aspx
+[All Tool](https://atozmath.com/Menu/StatisticsMenu.aspx)
 
-Numerical tool calculator
-https://www.codesansar.com/online-calculator/
-https://atozmath.com/Menu/ConmMenu.aspx
+[Numerical tool calculator](https://www.codesansar.com/online-calculator/)
+[Numerical tool calculator](https://atozmath.com/Menu/ConmMenu.aspx)
