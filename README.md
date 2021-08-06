@@ -72,8 +72,6 @@ Miscellaneous
 
 Solvers and Calculators
 
-
-
 [Numerical Methods](https://atozmath.com/Menu/ConmMenu.aspx)
 
 [Mode, Medain, A.M:](https://www.calculator.net/mean-median-mode-range-calculator.html)
